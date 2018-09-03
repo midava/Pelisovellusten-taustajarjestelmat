@@ -1,0 +1,11 @@
+/Users/midava/Desktop/Assignment_1/bin/Debug/netcoreapp2.1/Assignment_1.deps.json
+/Users/midava/Desktop/Assignment_1/bin/Debug/netcoreapp2.1/Assignment_1.runtimeconfig.json
+/Users/midava/Desktop/Assignment_1/bin/Debug/netcoreapp2.1/Assignment_1.runtimeconfig.dev.json
+/Users/midava/Desktop/Assignment_1/bin/Debug/netcoreapp2.1/Assignment_1.dll
+/Users/midava/Desktop/Assignment_1/bin/Debug/netcoreapp2.1/Assignment_1.pdb
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.csprojAssemblyReference.cache
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.AssemblyInfoInputs.cache
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.AssemblyInfo.cs
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.dll
+/Users/midava/Desktop/Assignment_1/obj/Debug/netcoreapp2.1/Assignment_1.pdb
